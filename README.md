@@ -1,4 +1,4 @@
-# unsupervised_learning
+# unsupervised learning
 
 This repo is meant to contain toys that I'm tinkering with while trying to learn data science.
 
