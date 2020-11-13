@@ -3,11 +3,11 @@
 This is a simplified version of the full model that was deployed in 2020
 at the Indiana State Department of Health for modeling COVID-19.
 
-* model_master.R: master script for running all other model scripts,
+* [model_master.R](model_master.R): master script for running all other model scripts,
 also contains configuration variables
-* model_initialization.R: initializes model arrays
-* model_dynamic_core.R: contains the dynamic core of the model
-* model_out.R: creates model output 
+* [model_initialization.R](model_initialization.R): initializes model arrays
+* [model_dynamic_core.R](model_dynamic_core.R): contains the dynamic core of the model
+* [model_out.R](model_out.R): creates model output 
 
 It should be possible to run this model with little modification.  A
 census file is included with the data so it can be run for any state.
