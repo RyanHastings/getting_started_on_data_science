@@ -1,6 +1,4 @@
-# unsupervised learning
-
-## COVID-19 modeling
+# COVID-19 modeling
 
 The first week I started as a data anylist at the Indiana State Department of Health, the coronavirus pandemic reached us.
 There was an immediate need for modeling, and with my background in meteorology, I was perfect for it.  I quickly learned the
