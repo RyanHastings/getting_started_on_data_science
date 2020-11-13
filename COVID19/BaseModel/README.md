@@ -9,7 +9,8 @@ also contains configuration variables
 * [model_dynamic_core.R](model_dynamic_core.R): contains the dynamic core of the model
 * [model_out.R](model_out.R): creates model output 
 
-It should be possible to run this model with little modification.  A
-census file is included with the data so it can be run for any state.
+It should be possible to run this model with little modification.  [A
+census file](data/PEP_2018_PEPAGESEX_with_ann.csv)
+is included with the data so it can be run for any state.
 Note that this is the bare-bones, missing a lot of the bells and 
 whistles in the operational model, which I was not allowed to share.
