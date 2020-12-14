@@ -41,8 +41,9 @@ with a mean of 0.6487
 ![fig7_silh6](images/fig7_silh6.png)
 with a mean of 0.7890 and
 ![fig8_silh7](images/fig8_silh7.png)
+with a mean of 0.6609.
 
-With the highest mean, I selected seven vectors for the *k*-means
+With the highest mean, I selected six vectors for the *k*-means
 clustering, which yielded the following:
 
 ![fig9_kmeans](images/fig9_kmeans.png)
