@@ -16,7 +16,7 @@ To compute the trajectories, I used my [cm1_pp_v1.0](http://www.github.com/RyanH
 
 I then identified the origins.
 
-![fig2_origins](images/fig1_origins.png)
+![fig2_origins](images/fig2_origins.png)
 
 This becomes a problem of identifying clusters in Euclidean space.  I
 first followed the literature and tried hierarchical clustering.  The
@@ -52,3 +52,8 @@ Code in Matlab available at [traj_clustering.m](traj_clustering.m) using
 data from [parcels.nc](parcels.nc) which is in netCDF format.  If you're
 downloading this, be sure to grab [newfig.m](newfig.m) as well to run it
 on your own.
+
+Prior to introducing these methods, clusters of trajectories were identified
+subjectively, by eyeballing them.  These methods allow objective analysis
+of airflows through meteorological systems.  Further analysis can now be
+done on the trajectory fitting the *k*-means.
