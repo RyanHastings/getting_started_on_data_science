@@ -10,7 +10,7 @@ a simplified version for show purposes.
 
 Using hierarchical and *k*-means clustering to identify origin regions of trajectories in squall lines.
 
-# [Predicting Infant Mortality](Categorization_Problem)
+# [Predicting Infant Mortality](Categorization_Problem/cat_problem.html)
 
 While working at the Indiana Department of Health, one of my major tasks was analyzing infant mortality data for the Maternal
 and Child Health division.  I basically did some descriptive statistics on the data set, then did a logistic regression to try and
